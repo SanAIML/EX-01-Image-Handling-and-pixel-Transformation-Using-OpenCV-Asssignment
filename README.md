@@ -1,8 +1,7 @@
 # Experiment 1:  Image-Handling-and-pixel-Transformation-Using-OpenCV-Asssignment
 
 ## Name: Sanchita Sandeep
-## Register Number: 212224240142<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/7e156d66-1790-4bab-b480-9fdd88b5370b" />
-
+## Register Number: 212224240142
 ---
 ## AIM
 To perform image handling and pixel transformations using Python and OpenCV, including reading and displaying images, drawing shapes, adding text, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving the modified image.
@@ -101,53 +100,53 @@ plt.axis("off")
 
 #The following outputs are obtained:
 
-#1. Original image displayed using OpenCV and Matplotlib.
+# 1. Original image displayed using OpenCV and Matplotlib.
 
 <img width="276" height="275" alt="Screenshot 2026-10-29 090059" src="https://github.com/user-attachments/assets/8b193a71-dd94-4f02-8744-edea6c9b8f2b" />
 
-#2. Image with a line drawn from the top-left to the bottom-right.
+# 2. Image with a line drawn from the top-left to the bottom-right.
 
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/cec59a6d-5a3f-47fc-8321-2d6338536cfd" />
 
 
 
-#3. Image with a circle .
+# 3. Image with a circle .
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/7be6771c-060a-4ce1-a312-b9691feb360f" />
 
 
-#4. Image with a rectangle around its boundary.
+# 4. Image with a rectangle around its boundary.
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/73e1909a-7b59-45fa-9b57-6ee9670666fe" />
 
 
 
 
-#5. Image with the text "OpenCV drawing"
+# 5. Image with the text "OpenCV drawing"
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/3cd0defa-2adc-40e5-9ce4-fa7eb374cfa8" />
 
 
 
 
-#6. HSV, grayscale, and YCrCb color space conversions.
+# 6. HSV, grayscale, and YCrCb color space conversions.
 
-#HSV conversion
+# HSV conversion
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/812c6ebc-a209-4594-9086-bf876f4f5820" />
 
 
-#grayscale conversion
+# grayscale conversion
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/abf0cbac-8d1d-4e16-832c-065adfe7c6b9" />
 
 
-#YCrCb conversion
+# YCrCb conversion
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/ef3dd470-7660-449f-8bf5-7b2cfb635544" />
 
 
-#7. Image converted from HSV back to RGB.
+# 7. Image converted from HSV back to RGB.
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/1f43a04e-6b8a-47dd-ad2b-b61f8b0ffa39" />
 
@@ -156,16 +155,16 @@ plt.axis("off")
 
 
 
-#8. Pixel value displayed and a white region added to the image.
+# 8. Pixel value displayed and a white region added to the image.
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/67028982-f39d-46cd-b65e-f323f247c26d" />
 
 
-#9. Image resized to half its original dimensions.
+# 9. Image resized to half its original dimensions.
 <img width="493" height="410" alt="download" src="https://github.com/user-attachments/assets/0a2ed9fe-7b5c-435b-a110-ddc4e6b96724" />
 
 
 
-#10. Cropped region of interest displayed.
+# 10. Cropped region of interest displayed.
 
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/40bf3bd0-a11c-42e9-bee0-487fc9e9bf55" />
@@ -174,14 +173,14 @@ plt.axis("off")
 
 
 
-#11. Horizontally flipped image displayed.
+# 11. Horizontally flipped image displayed.
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/e0b36a2b-99c8-43fe-b85b-b0a22003e3c6" />
 
 
 
 
 
-#12. Vertically flipped image displayed.
+# 12. Vertically flipped image displayed.
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/5026941a-719f-45fc-92ef-d549cd8508cf" />
 
