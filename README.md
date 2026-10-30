@@ -111,28 +111,16 @@ plt.axis("off")
 
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/898b0d96-cb72-4cee-81b0-b4fbb9a6bb01" />
 
-
-
-
 # 3. Image with a circle .
 
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/45c8a720-8411-415f-be48-52fc8dd0c9bf" />
 
-
-
 # 4. Image with a rectangle around its boundary.
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/06458623-396f-49d9-8b8d-9d5b34b75b9a" />
-
-
-
-
 
 # 5. Image with the text "OpenCV drawing"
 
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/cafef7ec-feda-4ec0-b3f4-7e4a56e1409d" />
-
-
-
 
 
 # 6. HSV, grayscale, and YCrCb color space conversions.
@@ -140,7 +128,6 @@ plt.axis("off")
 # HSV conversion
 
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/85866074-0786-453b-a2f4-0c699ec0c2e1" />
-
 
 
 # grayscale conversion
@@ -153,14 +140,9 @@ plt.axis("off")
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/99379494-5bd7-4ced-8437-b469f314f2c9" />
 
 
-
 # 7. Image converted from HSV back to RGB.
 
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/4fd011c0-6bd3-429f-b9f2-a3ac54582939" />
-
-
-
-
 
 
 # 8. Pixel value displayed and a white region added to the image.
@@ -170,22 +152,14 @@ plt.axis("off")
 # 9. Image resized to half its original dimensions.
 <img width="493" height="410" alt="download" src="https://github.com/user-attachments/assets/1e0c42f4-b30b-4e53-818d-0590927982cc" />
 
-
-
 # 10. Cropped region of interest displayed.
 
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/0cbb8bf6-6c72-4cd2-a3fc-587a420e955c" />
 
 
-
-
-
 # 11. Horizontally flipped image displayed.
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/10d2480e-0cf3-4bb5-b997-3ca37b969e72" />
-
-
-
 
 
 # 12. Vertically flipped image displayed.
@@ -193,11 +167,6 @@ plt.axis("off")
 <img width="297" height="410" alt="download" src="https://github.com/user-attachments/assets/794edab7-f6f7-4d27-ad0e-4390f07051ab" />
 
 
-
-
 ## RESULT
 
 Thus, image handling and pixel transformations were performed using Python, OpenCV, and Matplotlib. The experiment demonstrated image reading, shape drawing, text insertion, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving.
-
----
-
